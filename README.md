@@ -1,6 +1,6 @@
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 
-<img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
   🌎 Hello, my name is Gabriel Mori.
@@ -35,7 +35,9 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=Gabidev97&theme=radical)](https://github.com/Gabidev97/)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical)
-
-
-
+## **Linguagens e Ferramentas:**  
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+  
