@@ -1,7 +1,5 @@
-
-  <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+  
 
 <p align="left"> 
   🌎 Hello, my name is Gabriel Mori.
@@ -30,6 +28,13 @@
 
   </a>
 </p
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<br><br>
+
+[![Linkedin: Gabriel Mori](https://img.shields.io/badge/-GabrielMori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-mori-de-oliveira-92362421b/)](https://www.linkedin.com/in/gabriel-mori-de-oliveira-92362421b/)
+[![Gmail Badge](https://img.shields.io/badge/-gabrielmmori51@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmmori51@outlook.com)](mailto:gabrielmmori51@outlook.com)
+
 
 [![card](https://github-readme-stats.vercel.app/api?username=Gabidev97&theme=radical)](https://github.com/Gabidev97/)
 
