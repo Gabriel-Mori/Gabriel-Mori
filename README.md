@@ -36,7 +36,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gabrielmmori51@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmmori51@outlook.com)](mailto:gabrielmmori51@outlook.com)
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=Gabidev97&theme=radical)](https://github.com/Gabidev97/)
+[![card](https://github-readme-stats.vercel.app/api?username=Gabriel-Mori&theme=radical)](https://github.com/Gabriel-Mori/)
 
 ## **Languages ​​and Tools:**  
 
