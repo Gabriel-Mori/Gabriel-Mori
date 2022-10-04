@@ -36,6 +36,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gabrielmmori51@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmmori51@outlook.com)](mailto:gabrielmmori51@outlook.com)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Mori&show_icons=true&theme=dark)
 
 
 ## **Languages ​​and Tools:**  
