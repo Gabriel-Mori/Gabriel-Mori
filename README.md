@@ -7,14 +7,6 @@
 
 
 <p align="left">
-  💼 Tools: <strong>VSCode, Figma, Git e GitHub.</strong>
-</p>
-
-<p align="left">
-  💌 If you want to chat with me, don't hesitate to send me a message.
-</p>
-
-<p align="left">
   <a href="https://www.instagram.com/gabrielmmori/" alt="Instagram">
     <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/>
   </a>
