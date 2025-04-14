@@ -1,37 +1,38 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-  
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador Gabriel-mori">
 
-<p align="left"> 
-  🌎 Hello, my name is Gabriel Mori.
-</p>
+## 👋 Olá! Meu nome é Gabriel Mori
 
+Sou um **Full Stack Developer** com mais de **3 anos de experiência** em desenvolvimento web, atuando com tecnologias modernas como **Next.js, React, TypeScript e Node.js**. Atualmente, lidero o desenvolvimento front-end de um ERP e-commerce, focado em performance, escalabilidade e integração entre sistemas.
 
-<p align="left">
-  <a href="https://www.instagram.com/gabrielmmori/" alt="Instagram">
-    <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/>
-  </a>
-  
-  <a href="https://m.facebook.com/gabrieel.oliveira.5201" alt="facebbok">
-      <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white/></a>
+---
 
- <a href="https://api.whatsapp.com/send?phone=5544999767622&text=olá, sou Gabriel!" alt="whatsapp">
-      <img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white/></a>
-      
+### 🚀 Tecnologias e Ferramentas
 
-  </a>
-</p
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,angular,html,css,tailwind,prisma,postgres,docker,git,github,vscode,vite)](https://skillicons.dev)
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-<br><br>
+- **Frontend**: React, Next.js, AngularJS, TailwindCSS, Styled Components, SASS
+- **Backend**: Node.js, Express, Java, Prisma
+- **Banco de Dados**: PostgreSQL
+- **DevOps**: Docker, GitHub Actions, ArgoCD, CI/CD
+- **Metodologias Ágeis**: Scrum, Kanban
 
-[![Linkedin: Gabriel Mori](https://img.shields.io/badge/-GabrielMori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-mori-de-oliveira-92362421b/)](https://www.linkedin.com/in/gabriel-mori-de-oliveira-92362421b/)
-[![Gmail Badge](https://img.shields.io/badge/-gabrielmmori51@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmmori51@outlook.com)](mailto:gabrielmmori51@outlook.com)
+---
 
+### 🎓 Formação
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Mori&show_icons=true&theme=dark)
+**Bacharelado em Ciência da Computação - UNOPAR**  
+📚 Conclusão: 2027
 
+---
 
-## **Languages ​​and Tools:**  
+### 🌎 Onde me encontrar
 
-[![My Skills](https://skillicons.dev/icons?i=css,nodejs,github,html,js,react,ts,visualstudio,vite)](https://skillicons.dev)
-  
+[![LinkedIn](https://img.shields.io/badge/-GabrielMori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-morais-mori/)](https://www.linkedin.com/in/gabriel-morais-mori/)
+[![Email](https://img.shields.io/badge/-gabrielmorigds@gmail.com-006bed?style=flat-square&logo=gmail&logoColor=white&link=mailto:gabrielmorigds@gmail.com)](mailto:gabrielmorigds@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5544999767622&text=olá,%20sou%20Gabriel!)
+
+---
+
+### 📊 GitHub Stats
+
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Mori&show_icons=true&theme=dark)
