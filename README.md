@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador Gabriel-mori">
-![Status]([https://raw.githubusercontent.com/Gabriel-Mori/Gabriel-Mori/master/profile-3d-contrib/profile-season-animate.svg](https://github.com/Gabriel-Mori/Gabriel-Mori/blob/master/profile-3d-contrib/profile-season-animate.svg))
+![Status][([https://raw.githubusercontent.com/Gabriel-Mori/Gabriel-Mori/master/profile-3d-contrib/profile-season-animate.svg](https://github.com/Gabriel-Mori/Gabriel-Mori/blob/master/profile-3d-contrib/profile-season-animate.svg))](https://github.com/Gabriel-Mori/Gabriel-Mori/blob/master/profile-3d-contrib/profile-season-animate.svg)
 
 
 ## 👋 Olá! Meu nome é Gabriel Mori
