@@ -1,7 +1,4 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador Gabriel-mori">
-![Status](https://github.com/Gabriel-Mori/Gabriel-Mori/blob/master/profile-3d-contrib/profile-season-animate.svg)
-
-
 ## 👋 Olá! Meu nome é Gabriel Mori
 
 Sou um **Full Stack Developer** com mais de **3 anos de experiência** em desenvolvimento web, atuando com tecnologias modernas como **Next.js, React, TypeScript e Node.js**. Atualmente, lidero o desenvolvimento front-end de um ERP e-commerce, focado em performance, escalabilidade e integração entre sistemas.
